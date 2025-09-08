@@ -59,3 +59,29 @@ React.js の学習ロードマップの集大成として作成した、モダ�
 ```bash
 git clone https://github.com/あなたのユーザー名/あなたのリポジトリ名.git
 cd あなたのリポジトリ名
+
+
+### 3. 依存関係のインストール
+```bash
+npm install
+
+
+### 4. Firebase環境変数の設定
+# .env.local
+
+VITE_API_KEY="AIzaSy..."
+VITE_AUTH_DOMAIN="your-project-id.firebaseapp.com"
+VITE_PROJECT_ID="your-project-id"
+VITE_STORAGE_BUCKET="your-project-id.appspot.com"
+VITE_MESSAGING_SENDER_ID="..."
+VITE_APP_ID="1:..."
+
+
+### 5. 開発サーバーの起動
+```bash
+npm run dev
+
+### ✅ テストの実行方法 (Running Tests)
+```bash
+npm test
+
