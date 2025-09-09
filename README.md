@@ -2,10 +2,7 @@
 
 React.js の学習ロードマップの集大成として作成した、モダンなWeb技術を活用したシングルページアプリケーション（SPA）の家計簿アプリです。
 
-![アプリのスクリーンショット](https://via.placeholder.com/800x450.png?text=アプリのスクリーンショットをここに挿入 )
-*(ヒント: この部分を、デプロイしたアプリの実際のスクリーンショットに差し替えてください)*
-
-**デプロイ先URL:** [https://あなたのプロジェクト名.vercel.app/](https://あなたのプロジェクト名.vercel.app/ )
+**デプロイ先URL:** [(https://kakeibo-app-react.vercel.app/ )](https://kakeibo-app-react.vercel.app/)
 
 ---
 
